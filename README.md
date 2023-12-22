@@ -1,6 +1,6 @@
-**Enunciado:**
+## Enunciado:
 
-Deseamos crear una aplicación para gestionar usuarios y publicaciones. Utiliza la API de JSONPlaceholder para realizar las siguientes operaciones:
+> Deseamos crear una aplicación para gestionar usuarios y publicaciones. Utiliza la API de JSONPlaceholder para realizar las siguientes operaciones:
 
 1-Consumir la API para obtener información sobre al menos 15 usuarios y almacenarla en una base de datos local. 
 https://jsonplaceholder.typicode.com/users
